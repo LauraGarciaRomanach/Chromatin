@@ -1,0 +1,13 @@
+.Rproj.user
+.Rhistory
+.RData
+.Ruserdata
+Dockerfile
+.dockerignore
+RData_all/
+shiny_logs/
+split_bw/
+Potra02_genes.rds
+renv.lock
+app/annotations
+app/RData
